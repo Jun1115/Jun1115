@@ -16,6 +16,12 @@ Here are some ideas to get you started:
 -->
 
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
-
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+![header](https://capsule-render.vercel.app/api?
+text=Hello%World!
+&type=soft 
+&color=auto
+&height=300
+&section=header
+&animation=blinking
+&fontColor=d6ace6
+&fontSize=90)
