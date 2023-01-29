@@ -5,5 +5,5 @@
 
 
 <img src="https://img.shields.io/badge/Python-white?style=flat&logo=Python&logoColor=3776AB"/></a>
-<img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white"/></a>
 
