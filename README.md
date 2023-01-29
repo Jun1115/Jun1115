@@ -1,3 +1,4 @@
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=250&section=header&text=JunSeok%20Kim&fontSize=90&fontColor=FFFF00&fontAlignY=40&fontAlign=60&desc=Developer&descAlign=83&descAlignY=60&descSize=30" />
 
 ### 🛠 Teck Stack 🛠
@@ -11,3 +12,8 @@
 
 ### 🎳 About Me 🎳
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+
+
+
+
+</div>
