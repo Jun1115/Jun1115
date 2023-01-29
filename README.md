@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&animation=blinking&text=JunSeok%20Kim!&fontColor=#FFFFFF&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=#58FAD0&height=300&section=header&animation=blinking&text=JunSeok%20Kim!&fontColor=#FFFFFF&fontSize=90)
