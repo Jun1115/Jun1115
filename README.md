@@ -19,10 +19,7 @@
 <a href="https://www.instagram.com/jun_meeeeee/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/jun_meeeeee/"/></a>
 <a href="https://www.notion.so/52f0940095d342c6998e7a40d08761f0"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&link=https://www.notion.so/52f0940095d342c6998e7a40d08761f0"/></a>
 
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falalstjr&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
-  
-![아이디's github stats](https://github-readme-stats.vercel.app/api?username=alalstjr&show_icons=true)
+![아이디's github stats](https://github-readme-stats.vercel.app/api?username=Jun1115&show_icons=true)
 
 </div>
