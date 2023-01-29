@@ -21,7 +21,7 @@
 
 ## 🛠 Teck Certificate 🛠
 <p align="left">
-<img src="https://user-images.githubusercontent.com/114639257/215338073-8f6543e6-7022-4061-8662-d452fd128793.jpg" width="90%"></img>
+<img src="https://user-images.githubusercontent.com/114639257/215338073-8f6543e6-7022-4061-8662-d452fd128793.jpg" width="100"></img>
 </p>
   
 ![아이디's github stats](https://github-readme-stats.vercel.app/api?username=Jun1115&show_icons=true)
