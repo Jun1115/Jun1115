@@ -6,5 +6,5 @@
 
 <img src="https://img.shields.io/badge/Python-white?style=flat&logo=Python&logoColor=3776AB"/></a>
 <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/discode-white?style=flat&logo=discode&logoColor=5865F2"/></a>
+<img src="https://img.shields.io/badge/Discord-white?style=flat&logo=Discord&logoColor=5865F2"/></a>
 <img src="https://img.shields.io/badge/RPA-UiPath-orange"/></a>
