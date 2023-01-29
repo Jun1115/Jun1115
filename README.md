@@ -1,6 +1,8 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=250&section=header&text=JunSeok%20Kim&fontSize=90&fontColor=FFFF00&fontAlignY=40&fontAlign=60&desc=Developer&descAlign=83&descAlignY=60&descSize=30" />
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJun1115&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/Jun1115)
+  
 ### 🛠 Teck Stack 🛠
 <img src="https://img.shields.io/badge/Python-white?style=flat&logo=Python&logoColor=3776AB"/></a>
 <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white"/></a>
