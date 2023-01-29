@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=250&section=header&text=JunSeok%20Kim&fontSize=90&fontColor=000000&fontAlignY=40&fontAlign=60&desc=Developer&descAlign=83&descAlignY=60&descSize=30" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=JunSeok%20Kim&fontSize=90&fontColor=000000&fontAlignY=40&fontAlign=60&desc=Developer&descAlign=83&descAlignY=60&descSize=30" />
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJun1115&count_bg=%23EFB5DC&title_bg=%23F98294&icon=hey.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://github.com/Jun1115)
   
