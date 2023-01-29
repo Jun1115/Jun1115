@@ -8,4 +8,5 @@
 <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Discord-white?style=flat&logo=Discord&logoColor=5865F2"/></a>
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/></a>
+
 <img src="https://img.shields.io/badge/RPA-UiPath-orange"/></a>
