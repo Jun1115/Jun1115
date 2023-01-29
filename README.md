@@ -20,8 +20,9 @@
 <a href="https://www.notion.so/52f0940095d342c6998e7a40d08761f0"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&link=https://www.notion.so/52f0940095d342c6998e7a40d08761f0"/></a>
 
 ## 🛠 Teck Certificate 🛠
+<p align="left">
 ![RPA Developer Foundation](https://user-images.githubusercontent.com/114639257/215338073-8f6543e6-7022-4061-8662-d452fd128793.jpg)
-
+</p>
   
 ![아이디's github stats](https://github-readme-stats.vercel.app/api?username=Jun1115&show_icons=true)
 
