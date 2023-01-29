@@ -1,3 +1,7 @@
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=_#58FAD0&height=400&section=header&text=JunSeok%20Kim&fontColor=_#FFFFFF&fontSize=90)
+
+
 ### Hi there 👋
 
 <!--
@@ -16,4 +20,3 @@ Here are some ideas to get you started:
 -->
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=_#58FAD0&height=400&section=header&text=JunSeok%20Kim&fontColor=_#FFFFFF&fontSize=90)
