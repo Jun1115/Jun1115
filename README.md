@@ -1,5 +1,5 @@
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=300&section=header&text=JunSeok%20Kim&fontSize=90&fontColor=FFFFFF" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=151515&height=300&section=header&text=JunSeok%20Kim&fontSize=90&fontColor=FFFFFF" />
 
 ### Hi there 👋
 
