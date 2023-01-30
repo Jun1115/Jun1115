@@ -43,7 +43,7 @@
 <img src="https://user-images.githubusercontent.com/114639257/215338311-cb8821ef-ced8-47df-8d80-24dff9a15ce0.jpg" width="300"></img>
 </p>
 
-<h3 align="center"> 🎳 About Me 🎳 </h3>
+<h2 align="center"> 🎳 About Me 🎳 </h3>
   <p>
     <a href="https://www.instagram.com/jun_meeeeee/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/jun_meeeeee/"/></a>
     <a href="https://www.notion.so/52f0940095d342c6998e7a40d08761f0"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&link=https://www.notion.so/52f0940095d342c6998e7a40d08761f0"/></a>
