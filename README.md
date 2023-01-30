@@ -1,8 +1,15 @@
 <div align="left">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=JunSeok%20Kim&fontSize=90&fontColor=000000&fontAlignY=40&fontAlign=50&desc=Developer&descAlign=73&descAlignY=60&descSize=30" />
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJun1115&count_bg=%23EFB5DC&title_bg=%23F98294&icon=hey.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://github.com/Jun1115)
+
+<h3 align="center"> 🎳 About Me 🎳 </h3>
+<p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=JunSeok%20Kim&fontSize=90&fontColor=000000&fontAlignY=40&fontAlign=50&desc=Developer&descAlign=73&descAlignY=60&descSize=30" />
+  <a href="https://www.instagram.com/jun_meeeeee/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/jun_meeeeee/"/></a>
+  <a href="https://www.notion.so/52f0940095d342c6998e7a40d08761f0"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&link=https://www.notion.so/52f0940095d342c6998e7a40d08761f0"/></a>
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJun1115&count_bg=%23EFB5DC&title_bg=%23F98294&icon=hey.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://github.com/Jun1115)
+</p>  
+
   
 <h2 align="center">🛠 Teck Stack 🛠</h2>
 <h3 align="left">Language</h2>
@@ -37,12 +44,6 @@
     <img src="https://img.shields.io/badge/MTV-3386df?style=flat&logo=mvt&logoColor=white"/>
 </p>
 
-
-<h3 align="center"> 🎳 About Me 🎳 </h3>
-<p align="left"> 
-<a href="https://www.instagram.com/jun_meeeeee/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/jun_meeeeee/"/></a>
-<a href="https://www.notion.so/52f0940095d342c6998e7a40d08761f0"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&link=https://www.notion.so/52f0940095d342c6998e7a40d08761f0"/></a>
-</p>
 
 <h2 align="center">🛠 Teck Certificate 🛠</h2>
 <p align="left">
