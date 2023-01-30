@@ -8,12 +8,6 @@
     <a href="https://www.instagram.com/jun_meeeeee/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/jun_meeeeee/"/></a>
     <a href="https://www.notion.so/52f0940095d342c6998e7a40d08761f0"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&link=https://www.notion.so/52f0940095d342c6998e7a40d08761f0"/></a>
   </p>
-  <p align="center">
-  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJun1115&count_bg=%23EFB5DC&title_bg=%23F98294&icon=hey.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://github.com/Jun1115)
-
-  </p>  
-
   
 <h2 align="center">🛠 Teck Stack 🛠</h2>
 <h3 align="left">Language</h2>
@@ -54,7 +48,9 @@
 <img src="https://user-images.githubusercontent.com/114639257/215338073-8f6543e6-7022-4061-8662-d452fd128793.jpg" width="300"></img>
 <img src="https://user-images.githubusercontent.com/114639257/215338311-cb8821ef-ced8-47df-8d80-24dff9a15ce0.jpg" width="300"></img>
 </p>
-  
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJun1115&count_bg=%23EFB5DC&title_bg=%23F98294&icon=hey.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://github.com/Jun1115
+
 ![아이디's github stats](https://github-readme-stats.vercel.app/api?username=Jun1115&show_icons=true)
 
 </div>
