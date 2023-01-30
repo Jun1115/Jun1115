@@ -8,34 +8,33 @@
 <h3 align="left">Language</h2>
 <p align="left">
 <img src="https://img.shields.io/badge/Python-white?style=flat&logo=Python&logoColor=3776AB"/></a>
-<img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/RPA-UiPath-orange"/></a>
-
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/></a>
 </p>
 
 <h3 align="left">Framework & Library</h3>
 <p align="left">
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/RPA-UiPath-orange"/></a>
 </p>
 
 <h3 align="left">Database</h3>
 <p align="left">
+  <a></a>
 </p>
 
 
 <h3 align="left">Infra & Cloud & OS</h3>
 <p align="left">
+  <a></a>
 </p>
 
 <h3 align="left">Version Control</h3>
 <p align="left">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/></a>
 </p>
 
 <h3 align="left">Architecture & Design Pattern</h3>
 <p align="left">
+    <img src="https://img.shields.io/badge/MTV-3386df?style=flat&logo=mvt&logoColor=white"/>
 </p>
 
 
