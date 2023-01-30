@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/Python-white?style=flat&logo=Python&logoColor=3776AB"/></a>
 </p>
 
-<h3 align="left">Framework & Library & </h3>
+<h3 align="left">Framework & Library & Tool</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/></a>
