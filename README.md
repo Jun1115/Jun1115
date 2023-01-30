@@ -1,12 +1,9 @@
 <div align="left">
-
-
-
-<h3 align="center"> 🎳 About Me 🎳 </h3>
   <p align="center">
-    <a><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=JunSeok%20Kim&fontSize=90&fontColor=000000&fontAlignY=40&fontAlign=50&desc=Developer&descAlign=73&descAlignY=60&descSize=30" />
-    </a>
+    <a><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=JunSeok%20Kim&fontSize=90&fontColor=000000&fontAlignY=40&fontAlign=50&desc=Developer&descAlign=73&descAlignY=60&descSize=30" /a>
   </p>
+    </a>
+<h3 align="center"> 🎳 About Me 🎳 </h3>
   <p align="center">
     <a href="https://www.instagram.com/jun_meeeeee/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/jun_meeeeee/"/></a>
     <a href="https://www.notion.so/52f0940095d342c6998e7a40d08761f0"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&link=https://www.notion.so/52f0940095d342c6998e7a40d08761f0"/></a>
