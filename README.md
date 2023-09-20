@@ -44,6 +44,7 @@
 <p align="left">
 <img src="https://user-images.githubusercontent.com/114639257/215338073-8f6543e6-7022-4061-8662-d452fd128793.jpg" width="300"></img>
 <img src="https://user-images.githubusercontent.com/114639257/215338311-cb8821ef-ced8-47df-8d80-24dff9a15ce0.jpg" width="300"></img>
+<img src="https://github.com/Jun1115/Automation-Anywhere-Study/assets/114639257/e4c38a65-539b-43aa-b2cc-99a04d036755.jpg" width="300"></img>
 </p>
 
 <h2 align="center"> 🎳 About Me 🎳 </h3>
