@@ -49,7 +49,7 @@
 
 <h2 align="center"> 🎳 About Me 🎳 </h3>
   <p>
-    <a href="https://www.instagram.com/jun_meeeeee/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/jun_meeeeee/"/></a>
+    <a href="https://www.instagram.com/junrock_climb/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/jun_meeeeee/"/></a>
     <a href="https://www.notion.so/21587674557680fe9f8be8c415cd3f69"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&link=https://www.notion.so/52f0940095d342c6998e7a40d08761f0"/></a>
   </p>
  
